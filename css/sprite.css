@@ -1,0 +1,71 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-ardown {
+  background-image: url(../images/sprite.png);
+  background-position: -168px -49px;
+  width: 7px;
+  height: 4px;
+}
+.icon-basket {
+  background-image: url(../images/sprite.png);
+  background-position: -158px -19px;
+  width: 18px;
+  height: 15px;
+}
+.icon-exit {
+  background-image: url(../images/sprite.png);
+  background-position: -168px -34px;
+  width: 11px;
+  height: 15px;
+}
+.icon-flickr {
+  background-image: url(../images/sprite.png);
+  background-position: -66px -116px;
+  width: 24px;
+  height: 11px;
+}
+.icon-fs {
+  background-image: url(../images/sprite.png);
+  background-position: -158px -34px;
+  width: 10px;
+  height: 22px;
+}
+.icon-list {
+  background-image: url(../images/sprite.png);
+  background-position: -158px -56px;
+  width: 14px;
+  height: 13px;
+}
+.icon-new {
+  background-image: url(../images/sprite.png);
+  background-position: 0px 0px;
+  width: 158px;
+  height: 116px;
+}
+.icon-search-big {
+  background-image: url(../images/sprite.png);
+  background-position: 0px -116px;
+  width: 41px;
+  height: 30px;
+}
+.icon-search {
+  background-image: url(../images/sprite.png);
+  background-position: -41px -116px;
+  width: 25px;
+  height: 18px;
+}
+.icon-vimeo {
+  background-image: url(../images/sprite.png);
+  background-position: -158px 0px;
+  width: 22px;
+  height: 19px;
+}
